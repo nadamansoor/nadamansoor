@@ -9,25 +9,23 @@
 
 <h1 align="center">Hi, I'm Nada 👋</h1>
 
-<p align="center">
+<p align="center" style="font-size:16px;">
 I'm an IT graduate who genuinely enjoys every aspect of programming and technology — from writing code and building applications to understanding operating systems, networks, servers, and cloud infrastructure.
 </p>
 
-<p align="center">
+<p align="center" style="font-size:16px;">
 My current focus is <b>Cloud Solutions</b>, where I'm developing my skills in AWS, Linux, Red Hat, Networking, Virtualization, and Containerization.
 </p>
 
-<p align="center">
+<p align="center" style="font-size:16px;">
 I enjoy learning how different parts of technology connect together, and turning what I learn into practical projects and hands-on solutions.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Solutions%20%26%20Infrastructure-0A66C2?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+<h3 align="center">☁️ Cloud Solutions & Infrastructure — Current Career Direction</h3>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
 
@@ -61,23 +59,37 @@ I enjoy learning how different parts of technology connect together, and turning
 
 ---
 
-### 🎓 Certifications & Training
+## 🎓 Certifications & Training
 
+**Cloud & Infrastructure**
 - AWS Cloud Practitioner
 - Red Hat Administration – RH124
-- CCNA: Introduction to Networks
 - NTI Cloud Solutions Track
+
+**Networking**
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing, and Wireless Essentials
+
+**Software Development & Training Programs**
+- SprintUp – UI/UX Design
+- Certificate of Acknowledgement – InnovEgypt 45-Hour Training Program
+- Digital Egypt Youth Program – Mobile App Development
 - Digital Egypt Pioneers Initiative – Mobile Application Development
+- Digital Egypt Pioneers Program – Software Development (Mobile App Developer Job Profile)
+- Sprints x Microsoft Summer Camp – Mobile Development & Device Configuration and Management
+
+**Competitive Programming**
+- ICPC ACPC Kickoff Online Individual Contest (25–26 April 2025) – Honorable Mention
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nada-mansour-9a12b9285">
+  <a href="https://linkedin.com/in/MY_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nadamansour1566@gmail.com">
+  <a href="mailto:MY_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm Nada 👋</h1>
+<h1 align="center">Hey there, you found Nada ✨</h1>
 
 <p align="center" style="font-size:16px;">
 I'm an IT graduate who genuinely enjoys every aspect of programming and technology — from writing code and building applications to understanding operating systems, networks, servers, and cloud infrastructure.
@@ -20,8 +20,6 @@ My current focus is <b>Cloud Solutions</b>, where I'm developing my skills in AW
 <p align="center" style="font-size:16px;">
 I enjoy learning how different parts of technology connect together, and turning what I learn into practical projects and hands-on solutions.
 </p>
-
-<h3 align="center">☁️ Cloud Solutions & Infrastructure — Current Career Direction</h3>
 
 ---
 
@@ -62,8 +60,8 @@ I enjoy learning how different parts of technology connect together, and turning
 ## 🎓 Certifications & Training
 
 **Cloud & Infrastructure**
-- AWS Cloud Practitioner
-- Red Hat Administration – RH124
+- Red Hat System Administration I (RH124 - RHA) - Ver. 10
+- Red Hat System Administration II (RH134 - RHA) - Ver. 10
 - NTI Cloud Solutions Track
 
 **Networking**
@@ -73,6 +71,7 @@ I enjoy learning how different parts of technology connect together, and turning
 **Software Development & Training Programs**
 - SprintUp – UI/UX Design
 - Certificate of Acknowledgement – InnovEgypt 45-Hour Training Program
+- ITI - Flutter Development 
 - Digital Egypt Youth Program – Mobile App Development
 - Digital Egypt Pioneers Initiative – Mobile Application Development
 - Digital Egypt Pioneers Program – Software Development (Mobile App Developer Job Profile)

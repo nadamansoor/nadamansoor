@@ -61,48 +61,6 @@ I enjoy learning how different parts of technology connect together, and turning
 
 ---
 
-### ☁️ Cloud & Infrastructure
-
-This is where most of my current learning and hands-on time goes:
-
-- 🔹 AWS Cloud fundamentals
-- 🔹 Linux Administration
-- 🔹 Red Hat Enterprise Linux
-- 🔹 Networking & troubleshooting
-- 🔹 Virtualization (VMware)
-- 🔹 Containers (Podman / Docker)
-- 🔹 System Administration
-- 🔹 Cloud Infrastructure concepts
-- 🔹 Basic Cloud Security
-
-I'm still building depth in this field, but it's the direction I'm actively working toward professionally.
-
----
-
-### 🚀 Featured Projects
-
-**🍞 Eat2Beat** — *Graduation Project*
-A food-waste reduction platform connecting food providers (bakeries, supermarkets, home-food providers) with charities.
-Built with Flutter/Dart, Angular, Node.js/Express, Firebase, and a Python-based ML layer (Pandas, NumPy, scikit-learn, NLP).
-
-- Food demand prediction
-- Hybrid recommendation system
-- Food donation management
-- Analytics dashboard
-- AI chatbot
-
-**🧭 NotHidden**
-A travel platform concept connecting travelers with verified local guides based on location, interests, language, availability, and preferences — focused on discovering hidden gems and local experiences rather than just mainstream attractions.
-
-**🐧 Red Hat & Linux Labs**
-Hands-on practice covering:
-User/group administration · Permissions & ACLs · SSH configuration · systemd/services · Cron jobs · Process management · Package management · Repository configuration · Networking · Boot targets · Podman containers
-
-**☁️ Cloud & Virtualization Labs**
-Practical exercises in AWS fundamentals, VMware vSphere, virtual machines, Linux infrastructure, networking, containers, and general cloud infrastructure concepts.
-
----
-
 ### 🎓 Certifications & Training
 
 - AWS Cloud Practitioner
@@ -113,57 +71,16 @@ Practical exercises in AWS fundamentals, VMware vSphere, virtual machines, Linux
 
 ---
 
-### 💻 Development Background
-
-Before focusing on Cloud Solutions, I built a solid foundation in software development, including Flutter & Dart, Java, Python, Firebase, REST APIs, and Object-Oriented Programming, alongside daily use of Git/GitHub.
-
-This background gives me a practical understanding of applications from both the software and infrastructure side — which I find genuinely useful when thinking about how systems are built, deployed, and maintained.
-
----
-
-### 📡 Currently Learning
-
-<p align="center">
-  Cloud Solutions<br>
-  ⬇️<br>
-  AWS<br>
-  ⬇️<br>
-  Linux & Red Hat<br>
-  ⬇️<br>
-  Networking<br>
-  ⬇️<br>
-  Virtualization<br>
-  ⬇️<br>
-  Containers<br>
-  ⬇️<br>
-  Cloud Infrastructure
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MY_USERNAME&show_icons=true&theme=react" alt="Nada's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MY_USERNAME&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/MY_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nada-mansour-9a12b9285">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:MY_EMAIL@gmail.com">
+  <a href="mailto:nadamansour1566@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <sub>Thanks for stopping by — always open to connecting with people working in cloud, infrastructure, and beyond ☁️</sub>
 </p>
